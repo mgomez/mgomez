@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Cesar Manuel Gomez</h1>
 <h3 align="center">frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgomez&label=Profile%20views&color=0e75b6&style=flat" alt="mgomez" /> </p>
+
 <p align="left"> <a href="https://twitter.com/cesarg0mez" target="blank"><img src="https://img.shields.io/twitter/follow/cesarg0mez?logo=twitter&style=for-the-badge" alt="cesarg0mez" /></a> </p>
 
 - 🔭 I’m currently working on [One card](https://onecard.mx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/mgomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mgomez" height="30" width="40" /></a>
+<a href="https://codepen.io/codepen.io/mgomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="codepen.io/mgomez" height="30" width="40" /></a>
 <a href="https://twitter.com/cesarg0mez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="cesarg0mez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/cgomez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cgomez13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/cgomez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cgomez13" height="30" width="40" /></a>
+<a href="https://instagram.com/dev_cesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="dev_cesar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
